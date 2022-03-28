@@ -1,2 +1,2 @@
 # ID_Application
-This project was part of an assignment I did for my 2nd Year of University. 
+This project was part of an assignment I did for my 2nd Year of University. The aim of the assignment was to create an application that takes in a 6 digit number and adds it to a list. Users can add, remove an individual ID or clear the whole list. Users can also can also change the colours of the ID's in the list by changing the RGB values from 0 - 255. The program also checks for errors, such as checking the length of an ID or checking if the colour values re in range.
